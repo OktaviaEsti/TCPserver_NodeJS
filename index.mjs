@@ -1,4 +1,4 @@
-import net from 'net';  //tes
+import net from 'net';  
 // var net = require('net')
 
 const server = net.createServer( socket => {
