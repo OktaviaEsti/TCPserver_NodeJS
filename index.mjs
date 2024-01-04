@@ -1,5 +1,5 @@
-// import net from 'net';  //bikin errorrrrrr
-var net = require('net')
+import net from 'net';  
+// var net = require('net')
 
 const server = net.createServer( socket => {
     // this function get called when tcp handshake is successful
