@@ -28,11 +28,11 @@
 var net = require('net')
 ```
 3. Open terminal ⇒ cd to nmap directory
-4. Make a connection to TCP server using ncat. 
-
-```terminal
+![tutorial 1](https://github.com/OktaviaEsti/TCPserver_NodeJS/assets/7498207/cd8c2f4d-b42f-42ee-b510-c21e82d7c276)
+5. Make a connection to TCP server using ncat. 
+```
 ncat 127.0.0.1 8800
 ```
 
-1. Start sending messages by inputting it in terminal then click enter
-2. Make another connection by opening new terminal and ncat command.
+4. Start sending messages by type the message in the terminal then click enter
+5. Make another connection by opening new terminal and ncat command.
